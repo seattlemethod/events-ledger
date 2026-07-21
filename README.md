@@ -21,3 +21,5 @@ Events Ledger
 
 # Additional information:
 [REA Paper on Reasearch Gate](https://www.researchgate.net/publication/382589446_The_REA_Accounting_Model_as_an_Accounting_and_Economic_Ontology)
+
+You can get a FREE PDF COPY of ISO/IEC 15944-4:2015 Information technology — Business operational view Part 4: Business transaction scenarios — Accounting and economic ontology [here](https://www.iso.org/standard/67199.html).
