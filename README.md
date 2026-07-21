@@ -17,3 +17,7 @@ Events Ledger
 
 
 [PROTOTYPE](https://luca.pacioli.ai/luca/view/0f24fd35e961e167a727b663c75a4c5ec9fb7eb86730d6292f46e6e180fc20185278f796/index)
+
+
+# Additional information:
+[REA Paper on Reasearch Gate](https://www.researchgate.net/publication/382589446_The_REA_Accounting_Model_as_an_Accounting_and_Economic_Ontology)
