@@ -27,3 +27,7 @@ You can get a FREE PDF COPY of ISO/IEC 15944-4:2015 Information technology — B
 [Accounting & Audit by Design (A&AD) Framework](https://seattlemethod.blogspot.com/2026/07/accounting-audit-by-design-framework.html)
 
 [A&AD Github repository](https://github.com/AI2Accountans/AAxD)
+
+[ACTUS taxonomy](https://www.actusfrf.org/taxonomy)
+
+[FIBO Ontology](https://spec.edmcouncil.org/fibo/)
