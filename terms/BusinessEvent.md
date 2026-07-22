@@ -13,6 +13,9 @@ modeler wishes to plan, control, or evaluate the economic phenomena under study.
 has duration, we automatically assume that it possesses at least two sub-events: an instantaneous starting occurrence and
 an instentaneous ending occurrence.
 
+Wikidata:
+Undefined
+
 A&AD:
 A business event is an ecnomic event that spawns a financial transaction or the need for information related to a financial transaction.
 For example, 
