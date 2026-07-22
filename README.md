@@ -36,3 +36,5 @@ You can get a FREE PDF COPY of ISO/IEC 15944-4:2015 Information technology — B
 [ACTUS taxonomy](https://www.actusfrf.org/taxonomy)
 
 [FIBO Ontology](https://spec.edmcouncil.org/fibo/)
+
+[Semantics Of Business Vocabulary And Business Rules](https://www.omg.org/spec/SBVR/1.5/About-SBVR/)
