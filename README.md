@@ -5,6 +5,9 @@ The future of enterprise agentic AI will not be won by storing more information.
 
 [REA and ISO/IEC Accounting and Economic Ontology](https://xbrlsite.azurewebsites.net/2026/prototypes/isoiec15955/isoiec15944_ModelStructure.html)
 
+[UML diagrams]{https://photos.app.goo.gl/mQbK3yKminoz3pfYA}
+[Term Definitions](https://xbrlsite.azurewebsites.net/2026/prototypes/isoiec15955/ixbrl-report-viewer.html)
+
 [REA AAA Monegraph author's draft; The REA Accounting Model as an Accounting and Economic Ontology](https://www.academia.edu/123336061/The_REA_Accounting_Model_as_an_Accounting_and_Economic_Ontology)
 
 [Data Centric Accounting Core Events](https://xbrlsite.azurewebsites.net/seattlemethod/dca/dca_ModelStructure.html)
