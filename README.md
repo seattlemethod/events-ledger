@@ -5,6 +5,8 @@ Events Ledger
 
 [REA and ISO/IEC Accounting and Economic Ontology](https://xbrlsite.azurewebsites.net/2026/prototypes/isoiec15955/isoiec15944_ModelStructure.html)
 
+[REA AAA Monegraph author's draft; The REA Accounting Model as an Accounting and Economic Ontology](https://www.academia.edu/123336061/The_REA_Accounting_Model_as_an_Accounting_and_Economic_Ontology)
+
 [Data Centric Accounting Core Events](https://xbrlsite.azurewebsites.net/seattlemethod/dca/dca_ModelStructure.html)
 
 [Local General Journal and XBRL Global Ledger](https://xbrlsite.azurewebsites.net/seattlemethod/platinum/transactions/gl_ModelStructure.html)
