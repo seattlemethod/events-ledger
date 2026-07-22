@@ -1,6 +1,6 @@
 # README
 
-The terms of A&AD are intended to be a set of DataBooks each of which defines one term related to business event ledgers. Terms and their definitions come from many sources including:
+The terms of A&AD are intended to be a set of [DataBooks](https://digitalfinancialreporting.blogspot.com/2026/06/databook.html) each of which defines one term related to business event ledgers. Terms and their definitions come from many sources including:
 
 * [ISO/IECISO/IEC 15944-4:2015 Information technology — Business operational view Part 4: Business transaction scenarios — Accounting and economic ontology](https://www.iso.org/standard/67199.html)
 
