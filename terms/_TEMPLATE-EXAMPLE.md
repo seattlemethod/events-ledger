@@ -12,7 +12,7 @@ It also includes **validation rules** and a **query** to extract information.
 
 ---
 
-## 🐾 Data (RDF/Turtle)
+## Data (RDF/Turtle)
 ```turtle
 @prefix ex: <http://example.org/> .
 @prefix schema: <http://schema.org/> .
@@ -24,3 +24,11 @@ ex:alice a schema:Person ;
 ex:fluffy a schema:Cat ;
     schema:name "Fluffy" ;
     schema:color "Gray" .
+
+---
+
+## Data (XBRL)
+```xbrl
+
+
+---
