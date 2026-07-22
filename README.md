@@ -1,6 +1,8 @@
 # events-ledger
 Events Ledger
 
+Per the [triangle of meaning](https://seattlemethod.blogspot.com/2026/03/triangle-of-meaning.html), the real world is described per some [conceptualization](https://seattlemethod.blogspot.com/2025/09/conceptualization.html) and then some [implementation](https://seattlemethod.blogspot.com/2026/03/implementation.html) or representation.
+
 The future of enterprise agentic AI will not be won by storing more information.  It will be won by assembling the right context, the right information, the right knowledge, the right constraints, for the right agent, at the right moment, under the right rules in an unbroken chain of meaning. Key to this is the ledger/journal of information about the business events of an economic entity.
 
 [REA and ISO/IEC Accounting and Economic Ontology](https://xbrlsite.azurewebsites.net/2026/prototypes/isoiec15955/isoiec15944_ModelStructure.html)
