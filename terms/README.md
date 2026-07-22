@@ -10,7 +10,9 @@ The terms of A&AD are intended to be a set of DataBooks each of which defines on
 
 * [ACTUS](https://www.actusfrf.org/taxonomy)
 
-The following is a summary of defined terms:
+* [XBRL Global Ledger](https://specifications.xbrl.org/work-product-index-xbrl-gl-xbrl-gl-2015.html)
+
+The following is a summary of defined terms which are cross reference to one another:
 
 [Process](Process.md)
 
