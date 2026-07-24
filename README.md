@@ -47,6 +47,10 @@ You can get a FREE PDF COPY of ISO/IEC 15944-4:2015 Information technology — B
 
 [UBL-ISO/IEC](https://www.iso.org/standard/66370.html)
 
+[Cross-border Paperless Trade](https://digitalfinancialreporting.blogspot.com/2023/04/cross-border-paperless-trade-is-coming.html)
+
+
+
 
 
 
